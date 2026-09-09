@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[89667,["/aura-calculator/_next/static/chunks/08c0gdhh3nsbq.js","/aura-calculator/_next/static/chunks/211sm4y6qt-ev.js","/aura-calculator/_next/static/chunks/0twjpn2qwluf2.js","/aura-calculator/_next/static/chunks/0ona-5k7r74lk.js"],"default"]
-3:I[69247,["/aura-calculator/_next/static/chunks/08c0gdhh3nsbq.js","/aura-calculator/_next/static/chunks/211sm4y6qt-ev.js","/aura-calculator/_next/static/chunks/0twjpn2qwluf2.js","/aura-calculator/_next/static/chunks/0ona-5k7r74lk.js"],"default"]
+2:I[89667,["/aura-calculator/_next/static/chunks/08c0gdhh3nsbq.js","/aura-calculator/_next/static/chunks/211sm4y6qt-ev.js","/aura-calculator/_next/static/chunks/3qws7jrfl7nwt.js","/aura-calculator/_next/static/chunks/0ona-5k7r74lk.js"],"default"]
+3:I[69247,["/aura-calculator/_next/static/chunks/08c0gdhh3nsbq.js","/aura-calculator/_next/static/chunks/211sm4y6qt-ev.js","/aura-calculator/_next/static/chunks/3qws7jrfl7nwt.js","/aura-calculator/_next/static/chunks/0ona-5k7r74lk.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"SHraguO6D8kWvdK807Lpj"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"yQZR8-_3x2ML0r38wg5l6"}
